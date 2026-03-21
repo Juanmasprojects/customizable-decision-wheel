@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff1624c7efa464940a0227cc327ebb15
+timeCreated: 1505958235
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - next: {instanceID: 0}
+  - desc: {instanceID: 0}
+  - pic: {instanceID: 0}
+  - sprite2: {instanceID: 0}
+  - sprite3: {instanceID: 0}
+  - sprite4: {instanceID: 0}
+  - sprite5: {instanceID: 0}
+  - sprite6: {instanceID: 0}
+  - sprite7: {instanceID: 0}
+  - sprite8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
