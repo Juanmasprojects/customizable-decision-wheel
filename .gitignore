@@ -6,6 +6,9 @@
 [Ll]ogs/
 UserSettings/
 .vs/
+.vsconfig
+Packages/
+ProjectSettings/
 
 *.csproj
 *.unityproj
