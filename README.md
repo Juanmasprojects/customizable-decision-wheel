@@ -67,12 +67,14 @@ Main systems implemented in the project:
 
 ## Project Structure
 
+```
 Assets/
-├── Scenes/
-├── Script/
-├── Imagenes/
-├── Fuentes/
+ ├── Scenes/
+ ├── Script/
+ ├── Imagenes/
+ ├── Fuentes/
 ProjectSettings/
+```
 
 ---
 
