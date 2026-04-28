@@ -8,7 +8,7 @@ This project was originally developed as a personal project and is preserved as 
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/p3aEFhX_Te8/0.jpg)](https://www.youtube.com/watch?v=p3aEFhX_Te8)
+[![Watch the video](https://img.youtube.com/vi/AY1RbOGourM/0.jpg)](https://www.youtube.com/watch?v=AY1RbOGourM)
 
 ---
 
